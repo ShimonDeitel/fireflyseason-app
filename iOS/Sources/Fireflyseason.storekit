@@ -1,0 +1,29 @@
+{
+  "identifier" : "Fireflyseason",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "fireflyseason_pro",
+      "localizations" : [
+        {
+          "description" : "Multi-year trend chart and intensity rating notes",
+          "displayName" : "Firefly Season Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.fireflyseason.pro",
+      "referenceName" : "Firefly Season Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
